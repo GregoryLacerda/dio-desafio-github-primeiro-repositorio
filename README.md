@@ -2,4 +2,4 @@
 
 Desafio de Projeto sobre Git/GitHub
 
- - Cria o repositorio no git
+ - Cria o repositorio no GitHub
